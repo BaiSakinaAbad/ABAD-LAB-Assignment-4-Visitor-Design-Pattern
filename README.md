@@ -14,4 +14,4 @@ In an e-commerce platform selling various furniture types (chairs, tables, sofas
 The Visitor pattern solves this by separating the shipping cost calculation algorithm from the furniture classes. This follows the **Open/Closed Principle** - the code is open for extension but closed for modification.
 
 ## UML DIAGRAM
-![alt text](visitorPattern(Lab4).png)
+![alt text](visitorPattern(lab4).png)
